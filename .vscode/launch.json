@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CervezaApplication<cerveza>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sustentacion.cerveza.CervezaApplication",
+            "projectName": "cerveza",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
