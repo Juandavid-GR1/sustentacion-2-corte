@@ -10,4 +10,8 @@ public class Cerveceria {
    private String direccion;
    private String marca;
    private String stock;
+   public void add(Cerveceria cerveceria) {
+      // TODO Auto-generated method stub
+      throw new UnsupportedOperationException("Unimplemented method 'add'");
+   }
 }
